@@ -1,0 +1,490 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ 
+body{
+    background: #1E2538;
+    background-image: url(./А\ 1-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    display: flex;
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+margin: 30px;
+padding-left: 200px;
+    
+
+
+}
+.nav1 h1{
+    color: #3657CB;
+font-family: Qanelas;
+font-size: 25px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.nav1 h2{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 25px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.nav1{
+    display: flex;}
+.nav2{
+display: flex;
+padding-left: 200px;
+gap: 100px;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.nav2 a{
+    color: #FFF;
+    
+}
+.nav3 {
+padding-left: 100px;
+
+}
+.nav3 img{
+    width: 50px;
+    height: 45px;
+}
+
+.nav4 button{
+width: 138px;
+height: 54px;
+flex-shrink: 0;
+border-radius: 15px;
+background: #3657CB;
+box-shadow: 0px 0px 15px 0px rgba(72, 113, 255, 0.80);
+}
+.nav4{
+    padding-left: 25px;
+    margin-bottom: 15px;
+}
+.nav6 h1{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 65px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.nav6{
+    padding-left: 400px;
+    padding: 50px;
+    display: flex;
+}
+.nav7{
+    width: 51.5px;
+height: 0px;
+flex-shrink: 0;
+stroke-width: 2px;
+stroke: #FFF;
+padding-left: 100px;
+padding-top: 32px;
+}
+.nav8{
+    display: flex;
+    gap: 90px;
+    padding-left: 200px;
+    padding-top: 32px;
+}
+.nav8 h6{
+    color: rgba(255, 255, 255, 0.35);
+    font-family: Qanelas;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.a{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.nav5{
+    padding-left: 170px;
+}
+.nav10 h6{
+    width: 163.992px;
+height: 22.834px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.nav10 p{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 60.2px;
+height: 18.683px;
+flex-shrink: 0;
+}
+.nav11 p{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 186.826px;
+height: 18.683px;
+flex-shrink: 0;
+
+}
+.nav11 h6{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 69.541px;
+height: 22.834px;
+flex-shrink: 0;
+}
+.nav12 h6{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 327px;
+height: 17px;
+flex-shrink: 0;
+}
+.nav12 p{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 303px;
+height: 19px;
+flex-shrink: 0;
+}
+.nav13 h6{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 124px;
+height: 23px;
+flex-shrink: 0;
+}
+.nav13 p{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 197px;
+height: 19px;
+flex-shrink: 0;
+}
+.nav9{
+    display: flex;
+    justify-content: space-around;
+}
+.nav10 h5{
+    color: #FFF;
+    font-family: Qanelas;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 163.992px;
+height: 22.834px;
+flex-shrink: 0;
+}
+.nav10 span{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 237px;
+height: 19px;
+flex-shrink: 0;
+}
+.nav11 h5{
+    width: 69.541px;
+height: 22.834px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.nav11 span{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 153px;
+height: 19px;
+flex-shrink: 0;
+} 
+.nav12 h5{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 327px;
+height: 41px;
+flex-shrink: 0;
+} 
+.nav12 span{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 196px;
+height: 19px;
+flex-shrink: 0;
+}    
+.nav13 h5{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 202px;
+height: 23px;
+flex-shrink: 0;
+}  
+.nav13 span{
+    color: #F2F60F;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 197px;
+height: 19px;
+flex-shrink: 0;
+} 
+.nav14{
+    padding-top: 80px;
+}    
+.nav15{
+    text-align: center;
+    padding-top: 100px;
+}   
+.nav15 button{
+    width: 300px;
+height: 100px;
+background: #1E2538;
+
+}     
+.m{
+    font-size: 18px;
+    color: #FFF;
+    font-family: Qanelas;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 166.5%; 
+
+}  
+.nav16 h1{
+    color: #FFF;
+    font-family: Qanelas;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+flex-shrink: 0;
+margin-left: 200px;
+}     
+.nav16 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-left: 1200px;
+padding-top: 9px;
+}  
+.nav16 img{
+stroke-width: 2px;
+stroke: #FFF;
+padding-left: 60px;
+padding-bottom: 30px;
+}    
+.nav16{
+    display: flex;
+    padding-top: 100px;
+    
+}   
+.nav17 img{
+    width: 1600px;
+height: 862px;
+flex-shrink: 0;
+}  
+.nav17{
+    padding-left: 300px;
+    padding-top: 80px;
+}   
+.nav18 h1{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 45px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+}  
+.nav19{
+    width: 58.871px;
+    height: 58.871px;
+    flex-shrink: 0;
+    border-radius: 10px;
+background: #1B2133;
+margin-right: 30px;
+}     
+.nav19 svg{
+    width: 26px;
+height: 26px;
+flex-shrink: 0;
+margin-top: 15px;
+margin-left: 15px;
+
+}    
+.nav20{
+    width: 58.871px;
+height: 58.871px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #1B2133;
+}   
+.nav20 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 10px;
+padding-left: 20px;
+}   
+.nav19 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top:20px;
+padding-left: 15px;
+} 
+.nav18{
+    display: flex;
+    justify-content: space-between;
+    
+}  
+.nav21{
+    display: flex;
+    padding-right: 200px;
+    padding-top: 70px;
+}   
+.nav20 svg{
+    margin-top: 20px;
+margin-left: 15px;
+
+} 
+.nav23{
+    margin-top:90px;
+    margin-left: 150px;
+}     
+.nav24 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 77px;
+height: 20px;
+flex-shrink: 0;
+}      
+.nav26 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 117px;
+height: 20px;
+flex-shrink: 0;
+}   
+.nav27 p {
+    color: #FFF;
+font-family: Qanelas;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 139px;
+height: 23px;
+flex-shrink: 0;
+}  
+.nav28 p{
+    color: #FFF;
+font-family: Qanelas;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+width: 137px;
+height: 23px;
+flex-shrink: 0;
+}   
+.nav24{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}  
